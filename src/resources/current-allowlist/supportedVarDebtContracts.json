@@ -1,0 +1,2700 @@
+[
+  {
+    "iid": "arb:0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+    "address": "0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "network": 42161,
+    "reserve_factor": 0.25,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt DAI",
+    "symbol": "variableDebtArbDAI",
+    "primaryColor": "#ECAD14",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xda10009cbd5d07dd0cecc66161fc93d7c9000da1&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#986503",
+      "dark": "#F5AC37"
+    }
+  },
+  {
+    "iid": "arb:0x953a573793604af8d41f306feb8274190db4ae0e",
+    "address": "0x953a573793604af8d41f306feb8274190db4ae0e",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "network": 42161,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt LINK",
+    "symbol": "variableDebtArbLINK",
+    "primaryColor": "#362D8B",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xf97f4df75117a78c1a5a0dbb814af92458539fb4&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#375BD2",
+      "dark": "#375BD2"
+    }
+  },
+  {
+    "iid": "arb:0xfccf3cabbe80101232d343252614b6a3ee81c989",
+    "address": "0xfccf3cabbe80101232d343252614b6a3ee81c989",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "network": 42161,
+    "reserve_factor": 0.5,
+    "decimals": 6,
+    "name": "Aave Arbitrum Variable Debt USDC",
+    "symbol": "variableDebtArbUSDC",
+    "primaryColor": "#E78122",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xff970a61a04b1ca14834a43f5de4533ebddb5cc8&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "arb:0x92b42c66840c7ad907b4bf74879ff3ef7c529473",
+    "address": "0x92b42c66840c7ad907b4bf74879ff3ef7c529473",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "network": 42161,
+    "reserve_factor": 0.5,
+    "decimals": 8,
+    "name": "Aave Arbitrum Variable Debt WBTC",
+    "symbol": "variableDebtArbWBTC",
+    "primaryColor": "#57031B",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#7E6C69",
+      "dark": "#F09242"
+    }
+  },
+  {
+    "iid": "arb:0x0c84331e39d6658cd6e6b9ba04736cc4c4734351",
+    "address": "0x0c84331e39d6658cd6e6b9ba04736cc4c4734351",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "network": 42161,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt WETH",
+    "symbol": "variableDebtArbWETH",
+    "primaryColor": "#C71593",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x82af49447d8a07e3bd95bd0d56f35241523fbab1&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#CF3779",
+      "dark": "#DA3A7A"
+    }
+  },
+  {
+    "iid": "arb:0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+    "address": "0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "network": 42161,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Arbitrum Variable Debt USDT",
+    "symbol": "variableDebtArbUSDT",
+    "primaryColor": "#ECFCB4",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#058080",
+      "dark": "#009393"
+    }
+  },
+  {
+    "iid": "arb:0xe80761ea617f66f96274ea5e8c37f03960ecc679",
+    "address": "0xe80761ea617f66f96274ea5e8c37f03960ecc679",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+    "network": 42161,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt AAVE",
+    "symbol": "variableDebtArbAAVE",
+    "primaryColor": "#742BAF",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xba5ddd1f9d7f570dc94a51479a000e3bce967196&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#1717e7",
+      "dark": "#2929ff"
+    }
+  },
+  {
+    "iid": "arb:0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8",
+    "address": "0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0xd22a58f79e9481d1a88e00c343885a588b34b68b",
+    "network": 42161,
+    "reserve_factor": 0.2,
+    "decimals": 2,
+    "name": "Aave Arbitrum Variable Debt EURS",
+    "symbol": "variableDebtArbEURS",
+    "primaryColor": "#D3E711",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xd22a58f79e9481d1a88e00c343885a588b34b68b&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#13bbfc",
+      "dark": "#13bbfc"
+    }
+  },
+  {
+    "iid": "arb:0x77ca01483f379e58174739308945f044e1a764dc",
+    "address": "0x77ca01483f379e58174739308945f044e1a764dc",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x5979d7b546e38e414f7e9822514be443a4800529",
+    "network": 42161,
+    "reserve_factor": 0.05,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt wstETH",
+    "symbol": "variableDebtArbwstETH",
+    "primaryColor": "#57B5A0",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x5979d7b546e38e414f7e9822514be443a4800529&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#0075B5",
+      "dark": "#00A3FF"
+    }
+  },
+  {
+    "iid": "arb:0xce186f6cccb0c955445bb9d10c59cae488fea559",
+    "address": "0xce186f6cccb0c955445bb9d10c59cae488fea559",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "network": 42161,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt rETH",
+    "symbol": "variableDebtArbrETH",
+    "primaryColor": "#76283A",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#BB5507",
+      "dark": "#FF8864"
+    }
+  },
+  {
+    "iid": "arb:0xa8669021776bc142dfca87c21b4a52595bcbb40a",
+    "address": "0xa8669021776bc142dfca87c21b4a52595bcbb40a",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
+    "network": 42161,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt LUSD",
+    "symbol": "variableDebtArbLUSD",
+    "primaryColor": "#D20534",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x93b346b6bc2548da6a1e7d98e9a421b42541425b&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#745CDC",
+      "dark": "#8671E0"
+    }
+  },
+  {
+    "iid": "arb:0xf611aeb5013fd2c0511c9cd55c7dc5c1140741a6",
+    "address": "0xf611aeb5013fd2c0511c9cd55c7dc5c1140741a6",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "network": 42161,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Arbitrum Variable Debt USDCn",
+    "symbol": "variableDebtArbUSDCn",
+    "primaryColor": "#AC1079",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xaf88d065e77c8cc2239327c5edb3a432268e5831&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "arb:0x5d557b07776d12967914379c71a1310e917c7555",
+    "address": "0x5d557b07776d12967914379c71a1310e917c7555",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "network": 42161,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt FRAX",
+    "symbol": "variableDebtArbFRAX",
+    "primaryColor": "#8AE9FB",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x17fc002b466eec40dae837fc4be5c67993ddbd6f&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#000000",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "iid": "arb:0x44705f578135cc5d703b4c9c122528c73eb87145",
+    "address": "0x44705f578135cc5d703b4c9c122528c73eb87145",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "network": 42161,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt ARB",
+    "symbol": "variableDebtArbARB",
+    "primaryColor": "#C8BA84",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x912ce59144191c1204e64559fe8253a0e49e6548&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#323C54",
+      "dark": "#96BEDC"
+    }
+  },
+  {
+    "iid": "arb:0x3ca5fa07689f266e907439afd1fbb59c44fe12f6",
+    "address": "0x3ca5fa07689f266e907439afd1fbb59c44fe12f6",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "network": 42161,
+    "reserve_factor": 0.45,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt weETH",
+    "symbol": "variableDebtArbweETH",
+    "primaryColor": "#563CDA",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x35751007a407ca6feffe80b3cb397736d2cf4dbe&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#1F1E4C",
+      "dark": "#33B6FB"
+    }
+  },
+  {
+    "iid": "arb:0x18248226c16bf76c032817854e7c83a2113b4f06",
+    "address": "0x18248226c16bf76c032817854e7c83a2113b4f06",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33",
+    "network": 42161,
+    "reserve_factor": 0.1,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt GHO",
+    "symbol": "variableDebtArbGHO",
+    "primaryColor": "#DC0BD2",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#4adc72",
+      "dark": "#4adc72"
+    }
+  },
+  {
+    "iid": "arb:0x1ffd28689da7d0148ff0fcb669e9f9f0fc13a219",
+    "address": "0x1ffd28689da7d0148ff0fcb669e9f9f0fc13a219",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "arb:0x2416092f143378750bb29b79ed961ab195cceea5",
+    "network": 42161,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Arbitrum Variable Debt ezETH",
+    "symbol": "variableDebtArbezETH",
+    "primaryColor": "#50E9EB",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2416092f143378750bb29b79ed961ab195cceea5&marketName=proto_arbitrum_v3",
+    "colors": {
+      "light": "#000000",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "iid": "base:0x24e6e0795b3c7c71d965fcc4f371803d1c1dca1e",
+    "address": "0x24e6e0795b3c7c71d965fcc4f371803d1c1dca1e",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "base:0x4200000000000000000000000000000000000006",
+    "network": 8453,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Base Variable Debt WETH",
+    "symbol": "variableDebtBasWETH",
+    "primaryColor": "#14F39A",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x4200000000000000000000000000000000000006&marketName=proto_base_v3",
+    "colors": {
+      "light": "#CF3779",
+      "dark": "#DA3A7A"
+    }
+  },
+  {
+    "iid": "base:0x1dabc36f19909425f654777249815c073e8fd79f",
+    "address": "0x1dabc36f19909425f654777249815c073e8fd79f",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "base:0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+    "network": 8453,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Base Variable Debt cbETH",
+    "symbol": "variableDebtBascbETH",
+    "primaryColor": "#9015AC",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22&marketName=proto_base_v3",
+    "colors": {
+      "light": "#2B6CEC",
+      "dark": "#3971F4"
+    }
+  },
+  {
+    "iid": "base:0x7376b2f323dc56fcd4c191b34163ac8a84702dab",
+    "address": "0x7376b2f323dc56fcd4c191b34163ac8a84702dab",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "base:0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+    "network": 8453,
+    "reserve_factor": 0.5,
+    "decimals": 6,
+    "name": "Aave Base Variable Debt USDbC",
+    "symbol": "variableDebtBasUSDbC",
+    "primaryColor": "#E86D44",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca&marketName=proto_base_v3",
+    "colors": {
+      "light": "#2252F4",
+      "dark": "#2252F4"
+    }
+  },
+  {
+    "iid": "base:0x41a7c3f5904ad176dacbb1d99101f59ef0811dc1",
+    "address": "0x41a7c3f5904ad176dacbb1d99101f59ef0811dc1",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "base:0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+    "network": 8453,
+    "reserve_factor": 0.05,
+    "decimals": 18,
+    "name": "Aave Base Variable Debt wstETH",
+    "symbol": "variableDebtBaswstETH",
+    "primaryColor": "#E5AB0F",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452&marketName=proto_base_v3",
+    "colors": {
+      "light": "#0A7BA8",
+      "dark": "#9EDCFC"
+    }
+  },
+  {
+    "iid": "base:0x59dca05b6c26dbd64b5381374aaac5cd05644c28",
+    "address": "0x59dca05b6c26dbd64b5381374aaac5cd05644c28",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "base:0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "network": 8453,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Base Variable Debt USDC",
+    "symbol": "variableDebtBasUSDC",
+    "primaryColor": "#06E414",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&marketName=proto_base_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "base:0x8d2e3f1f4b38aa9f1ced22ac06019c7561b03901",
+    "address": "0x8d2e3f1f4b38aa9f1ced22ac06019c7561b03901",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "base:0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+    "network": 8453,
+    "reserve_factor": 0.45,
+    "decimals": 18,
+    "name": "Aave Base Variable Debt weETH",
+    "symbol": "variableDebtBasweETH",
+    "primaryColor": "#26E1A4",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x04c0599ae5a44757c0af6f9ec3b93da8976c150a&marketName=proto_base_v3",
+    "colors": {
+      "light": "#DB246E",
+      "dark": "#DE4683"
+    }
+  },
+  {
+    "iid": "base:0x05e08702028de6aad395dc6478b554a56920b9ad",
+    "address": "0x05e08702028de6aad395dc6478b554a56920b9ad",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "base:0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "network": 8453,
+    "reserve_factor": 0.2,
+    "decimals": 8,
+    "name": "Aave Base Variable Debt cbBTC",
+    "symbol": "variableDebtBascbBTC",
+    "primaryColor": "#0FD7E8",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf&marketName=proto_base_v3",
+    "colors": {
+      "light": "#0C59FC",
+      "dark": "#3F7BFC"
+    }
+  },
+  {
+    "iid": "base:0xbc4f5631f2843488792e4f1660d0a51ba489bdbd",
+    "address": "0xbc4f5631f2843488792e4f1660d0a51ba489bdbd",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "base:0x2416092f143378750bb29b79ed961ab195cceea5",
+    "network": 8453,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Base Variable Debt ezETH",
+    "symbol": "variableDebtBasezETH",
+    "primaryColor": "#64DAFF",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2416092f143378750bb29b79ed961ab195cceea5&marketName=proto_base_v3",
+    "colors": {
+      "light": "#5D7C12",
+      "dark": "#ADE13D"
+    }
+  },
+  {
+    "iid": "bsc:0xe20dbc7119c635b1b51462f844861258770e0699",
+    "address": "0xe20dbc7119c635b1b51462f844861258770e0699",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "bsc:0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "network": 56,
+    "reserve_factor": 0.55,
+    "decimals": 18,
+    "name": "Aave BNB Smart Chain Variable Debt CAKE",
+    "symbol": "variableDebtBnbCAKE",
+    "primaryColor": "#dbf74f",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&marketName=proto_bnb_v3",
+    "colors": {
+      "light": "#1A7F84",
+      "dark": "#40D6E1"
+    }
+  },
+  {
+    "iid": "bsc:0x0e76414d433ddfe8004d2a7505d218874875a996",
+    "address": "0x0e76414d433ddfe8004d2a7505d218874875a996",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "bsc:0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "network": 56,
+    "reserve_factor": 0.7,
+    "decimals": 18,
+    "name": "Aave BNB Smart Chain Variable Debt WBNB",
+    "symbol": "variableDebtBnbWBNB",
+    "primaryColor": "#7a5a98",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&marketName=proto_bnb_v3",
+    "colors": {
+      "light": "#8A6909",
+      "dark": "#F3BA2F"
+    }
+  },
+  {
+    "iid": "bsc:0x7b1e82f4f542fbb25d64c5523fe3e44abe4f2702",
+    "address": "0x7b1e82f4f542fbb25d64c5523fe3e44abe4f2702",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "bsc:0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "network": 56,
+    "reserve_factor": 0.7,
+    "decimals": 18,
+    "name": "Aave BNB Smart Chain Variable Debt BTCB",
+    "symbol": "variableDebtBnbBTCB",
+    "primaryColor": "#25de7",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c&marketName=proto_bnb_v3",
+    "colors": {
+      "light": "#A95D02",
+      "dark": "#F09242"
+    }
+  },
+  {
+    "iid": "bsc:0x8fdea7891b4d6dbdc746309245b316af691a636c",
+    "address": "0x8fdea7891b4d6dbdc746309245b316af691a636c",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "bsc:0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "network": 56,
+    "reserve_factor": 0.8,
+    "decimals": 18,
+    "name": "Aave BNB Smart Chain Variable Debt ETH",
+    "symbol": "variableDebtBnbETH",
+    "primaryColor": "#89ea27",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2170ed0880ac9a755fd29b2688956bd959f933f8&marketName=proto_bnb_v3",
+    "colors": {
+      "light": "#4C68E8",
+      "dark": "#627EEA"
+    }
+  },
+  {
+    "iid": "bsc:0xcdbbed5606d9c5c98eeedd67933991dc17f0c68d",
+    "address": "0xcdbbed5606d9c5c98eeedd67933991dc17f0c68d",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "bsc:0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "network": 56,
+    "reserve_factor": 0.75,
+    "decimals": 18,
+    "name": "Aave BNB Smart Chain Variable Debt USDC",
+    "symbol": "variableDebtBnbUSDC",
+    "primaryColor": "#7b884d",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d&marketName=proto_bnb_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "bsc:0xf8bb2be50647447fb355e3a77b81be4db64107cd",
+    "address": "0xf8bb2be50647447fb355e3a77b81be4db64107cd",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "bsc:0x55d398326f99059ff775485246999027b3197955",
+    "network": 56,
+    "reserve_factor": 0.75,
+    "decimals": 18,
+    "name": "Aave BNB Smart Chain Variable Debt USDT",
+    "symbol": "variableDebtBnbUSDT",
+    "primaryColor": "#783cfc",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x55d398326f99059ff775485246999027b3197955&marketName=proto_bnb_v3",
+    "colors": {
+      "light": "#058080",
+      "dark": "#009393"
+    }
+  },
+  {
+    "iid": "sonic:0x07b1adfb7d5795cf21bae8a77eceb222f2fafbce",
+    "address": "0x07b1adfb7d5795cf21bae8a77eceb222f2fafbce",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "sonic:0x50c42deacd8fc9773493ed674b675be577f2634b",
+    "network": 146,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Sonic Variable Debt WETH",
+    "symbol": "variableDebtSonWETH",
+    "primaryColor": "#F6C292",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x50c42deacd8fc9773493ed674b675be577f2634b&marketName=proto_sonic_v3",
+    "colors": {
+      "light": "#872760",
+      "dark": "#ff84d0"
+    }
+  },
+  {
+    "iid": "sonic:0x2273cabad63b7d247a6b107e723c803fc49953a0",
+    "address": "0x2273cabad63b7d247a6b107e723c803fc49953a0",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "sonic:0x29219dd400f2bf60e5a23d13be72b486d4038894",
+    "network": 146,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Sonic Variable Debt USDC",
+    "symbol": "variableDebtSonUSDC",
+    "primaryColor": "#717C14",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x29219dd400f2bf60e5a23d13be72b486d4038894&marketName=proto_sonic_v3",
+    "colors": {
+      "light": "#545505",
+      "dark": "#c0c157"
+    }
+  },
+  {
+    "iid": "sonic:0xf6089b790fbf8f4812a79a31cfabeb00b06ba7bd",
+    "address": "0xf6089b790fbf8f4812a79a31cfabeb00b06ba7bd",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "sonic:0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
+    "network": 146,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Sonic Variable Debt wS",
+    "symbol": "variableDebtSonwS",
+    "primaryColor": "#34EFD2",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38&marketName=proto_sonic_v3",
+    "colors": {
+      "light": "#08757d",
+      "dark": "#5becf7"
+    }
+  },
+  {
+    "iid": "eth:0xea51d7853eefb32b6ee06b1c12e6dcca88be0ffe",
+    "address": "0xea51d7853eefb32b6ee06b1c12e6dcca88be0ffe",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "network": 1,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt WETH",
+    "symbol": "variableDebtEthWETH",
+    "primaryColor": "#592688",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#CF3779",
+      "dark": "#DA3A7A"
+    }
+  },
+  {
+    "iid": "eth:0xc96113eed8cab59cd8a66813bcb0ceb29f06d2e4",
+    "address": "0xc96113eed8cab59cd8a66813bcb0ceb29f06d2e4",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "network": 1,
+    "reserve_factor": 0.05,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt wstETH",
+    "symbol": "variableDebtEthwstETH",
+    "primaryColor": "#DF8D01",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#0075B5",
+      "dark": "#00A3FF"
+    }
+  },
+  {
+    "iid": "eth:0x40aabef1aa8f0eec637e0e7d92fbffb2f26a8b7b",
+    "address": "0x40aabef1aa8f0eec637e0e7d92fbffb2f26a8b7b",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "network": 1,
+    "reserve_factor": 0.5,
+    "decimals": 8,
+    "name": "Aave Ethereum Variable Debt WBTC",
+    "symbol": "variableDebtEthWBTC",
+    "primaryColor": "#AE726C",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#7E6C69",
+      "dark": "#F09242"
+    }
+  },
+  {
+    "iid": "eth:0x72e95b8931767c79ba4eee721354d6e99a61d004",
+    "address": "0x72e95b8931767c79ba4eee721354d6e99a61d004",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "network": 1,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Ethereum Variable Debt USDC",
+    "symbol": "variableDebtEthUSDC",
+    "primaryColor": "#9D07A7",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "eth:0xcf8d0c70c850859266f5c338b38f9d663181c314",
+    "address": "0xcf8d0c70c850859266f5c338b38f9d663181c314",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x6b175474e89094c44da98b954eedeac495271d0f",
+    "network": 1,
+    "reserve_factor": 0.25,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt DAI",
+    "symbol": "variableDebtEthDAI",
+    "primaryColor": "#BABA28",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x6b175474e89094c44da98b954eedeac495271d0f&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#986503",
+      "dark": "#F5AC37"
+    }
+  },
+  {
+    "iid": "eth:0x4228f8895c7dda20227f6a5c6751b8ebf19a6ba8",
+    "address": "0x4228f8895c7dda20227f6a5c6751b8ebf19a6ba8",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x514910771af9ca656af840dff83e8264ecf986ca",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt LINK",
+    "symbol": "variableDebtEthLINK",
+    "primaryColor": "#C38A85",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x514910771af9ca656af840dff83e8264ecf986ca&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#375BD2",
+      "dark": "#375BD2"
+    }
+  },
+  {
+    "iid": "eth:0xbae535520abd9f8c85e58929e0006a2c8b372f74",
+    "address": "0xbae535520abd9f8c85e58929e0006a2c8b372f74",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "network": 1,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt AAVE",
+    "symbol": "variableDebtEthAAVE",
+    "primaryColor": "#31AA45",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#5D5DED",
+      "dark": "#9391F7"
+    }
+  },
+  {
+    "iid": "eth:0x0c91bca95b5fe69164ce583a2ec9429a569798ed",
+    "address": "0x0c91bca95b5fe69164ce583a2ec9429a569798ed",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+    "network": 1,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt cbETH",
+    "symbol": "variableDebtEthcbETH",
+    "primaryColor": "#5C0D49",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xbe9895146f7af43049ca1c1ae358b0541ea49704&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#2B6CEC",
+      "dark": "#3971F4"
+    }
+  },
+  {
+    "iid": "eth:0x6df1c1e379bc5a00a7b4c6e67a203333772f45a8",
+    "address": "0x6df1c1e379bc5a00a7b4c6e67a203333772f45a8",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "network": 1,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Ethereum Variable Debt USDT",
+    "symbol": "variableDebtEthUSDT",
+    "primaryColor": "#2FB1B6",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xdac17f958d2ee523a2206206994597c13d831ec7&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#058080",
+      "dark": "#009393"
+    }
+  },
+  {
+    "iid": "eth:0xae8593dd575fe29a9745056aa91c4b746eee62c8",
+    "address": "0xae8593dd575fe29a9745056aa91c4b746eee62c8",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xae78736cd615f374d3085123a210448e74fc6393",
+    "network": 1,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt rETH",
+    "symbol": "variableDebtEthrETH",
+    "primaryColor": "#7B4139",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xae78736cd615f374d3085123a210448e74fc6393&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#f4664b",
+      "dark": "#f4664b"
+    }
+  },
+  {
+    "iid": "eth:0x1b7d3f4b3c032a5ae656e30eea4e8e1ba376068f",
+    "address": "0x1b7d3f4b3c032a5ae656e30eea4e8e1ba376068f",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "network": 1,
+    "reserve_factor": 0.35,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt CRV",
+    "symbol": "variableDebtEthCRV",
+    "primaryColor": "#EA243C",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xd533a949740bb3306d119cc777fa900ba034cd52&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#6D7719",
+      "dark": "#6DFF8A"
+    }
+  },
+  {
+    "iid": "eth:0x6efc73e54e41b27d2134ff9f98f15550f30df9b1",
+    "address": "0x6efc73e54e41b27d2134ff9f98f15550f30df9b1",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt MKR",
+    "symbol": "variableDebtEthMKR",
+    "primaryColor": "#6F3F25",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#347C71",
+      "dark": "#57B4A5"
+    }
+  },
+  {
+    "iid": "eth:0x8d0de040e8aad872ec3c33a3776de9152d3c34ca",
+    "address": "0x8d0de040e8aad872ec3c33a3776de9152d3c34ca",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "network": 1,
+    "reserve_factor": 0.35,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt SNX",
+    "symbol": "variableDebtEthSNX",
+    "primaryColor": "#7C7115",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#130858",
+      "dark": "#00D1FF"
+    }
+  },
+  {
+    "iid": "eth:0xf64178ebd2e2719f2b1233bcb5ef6db4bcc4d09a",
+    "address": "0xf64178ebd2e2719f2b1233bcb5ef6db4bcc4d09a",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt UNI",
+    "symbol": "variableDebtEthUNI",
+    "primaryColor": "#B36F03",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x1f9840a85d5af5bf1d1762f925bdaddc4201f984&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#DE006D",
+      "dark": "#FF007A"
+    }
+  },
+  {
+    "iid": "eth:0xc30808705c01289a3d306ca9cab081ba9114ec82",
+    "address": "0xc30808705c01289a3d306ca9cab081ba9114ec82",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt LDO",
+    "symbol": "variableDebtEthLDO",
+    "primaryColor": "#61D11A",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x5a98fcbea516cf06857215779fd812ca3bef1b32&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#D73518",
+      "dark": "#F69988"
+    }
+  },
+  {
+    "iid": "eth:0xd180d7fdd4092f07428efe801e17bc03576b3192",
+    "address": "0xd180d7fdd4092f07428efe801e17bc03576b3192",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt ENS",
+    "symbol": "variableDebtEthENS",
+    "primaryColor": "#E45081",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xc18360217d8f7ab5e7c516566761ea12ce7f9d72&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#1C6AF4",
+      "dark": "#528DFF"
+    }
+  },
+  {
+    "iid": "eth:0xa38fca8c6bf9bda52e76eb78f08caa3be7c5a970",
+    "address": "0xa38fca8c6bf9bda52e76eb78f08caa3be7c5a970",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x111111111117dc0aa78b770fa6a738034120c302",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt 1INCH",
+    "symbol": "variableDebtEth1INCH",
+    "primaryColor": "#18D07F",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x111111111117dc0aa78b770fa6a738034120c302&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#D82122",
+      "dark": "#D82122"
+    }
+  },
+  {
+    "iid": "eth:0x88b8358f5bc87c2d7e116cca5b65a9eeb2c5ea3f",
+    "address": "0x88b8358f5bc87c2d7e116cca5b65a9eeb2c5ea3f",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x853d955acef822db058eb8505911ed77f175b99e",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt FRAX",
+    "symbol": "variableDebtEthFRAX",
+    "primaryColor": "#BAE483",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x853d955acef822db058eb8505911ed77f175b99e&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#7f7f7f",
+      "dark": "#7f7f7f"
+    }
+  },
+  {
+    "iid": "eth:0x786dbff3f1292ae8f92ea68cf93c30b34b1ed04b",
+    "address": "0x786dbff3f1292ae8f92ea68cf93c30b34b1ed04b",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "network": 1,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt GHO",
+    "symbol": "variableDebtEthGHO",
+    "primaryColor": "#3BA4A5",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#1A8036",
+      "dark": "#2CD45C"
+    }
+  },
+  {
+    "iid": "eth:0x655568bdd6168325ec7e58bf39b21a856f906dc2",
+    "address": "0x655568bdd6168325ec7e58bf39b21a856f906dc2",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt STG",
+    "symbol": "variableDebtEthSTG",
+    "primaryColor": "#6812B7",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#727272",
+      "dark": "#A6A6A6"
+    }
+  },
+  {
+    "iid": "eth:0x68e9f0ad4e6f8f5db70f6923d4d6d5b225b83b16",
+    "address": "0x68e9f0ad4e6f8f5db70f6923d4d6d5b225b83b16",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt FXS",
+    "symbol": "variableDebtEthFXS",
+    "primaryColor": "#9C0B04",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#000000",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "iid": "eth:0x028f7886f3e937f8479efad64f31b3fe1119857a",
+    "address": "0x028f7886f3e937f8479efad64f31b3fe1119857a",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+    "network": 1,
+    "reserve_factor": 0.1,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt crvUSD",
+    "symbol": "variableDebtEthcrvUSD",
+    "primaryColor": "#05F7B6",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xf939e0a03fb07f59a73314e73794be0e57ac1b4e&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#427F52",
+      "dark": "#427F52"
+    }
+  },
+  {
+    "iid": "eth:0x77ad9bf13a52517ad698d65913e8d381300c8bf3",
+    "address": "0x77ad9bf13a52517ad698d65913e8d381300c8bf3",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+    "network": 1,
+    "reserve_factor": 0.45,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt weETH",
+    "symbol": "variableDebtEthweETH",
+    "primaryColor": "#9342D9",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#1F1E4C",
+      "dark": "#33B6FB"
+    }
+  },
+  {
+    "iid": "eth:0x8838eeff2af391863e1bb8b1df563f86743a8470",
+    "address": "0x8838eeff2af391863e1bb8b1df563f86743a8470",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+    "network": 1,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt osETH",
+    "symbol": "variableDebtEthosETH",
+    "primaryColor": "#CEF144",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xf1c9acdc66974dfb6decb12aa385b9cd01190e38&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#2371D5",
+      "dark": "#488CE1"
+    }
+  },
+  {
+    "iid": "eth:0x015396e1f286289ae23a762088e863b3ec465145",
+    "address": "0x015396e1f286289ae23a762088e863b3ec465145",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+    "network": 1,
+    "reserve_factor": 0.25,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt USDe",
+    "symbol": "variableDebtEthUSDe",
+    "primaryColor": "#27C25A",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x4c9edd5852cd905f086c759e8383e09bff1e68b3&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#000000",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "iid": "eth:0x08a8dc81aea67f84745623ac6c72cda3967aab8b",
+    "address": "0x08a8dc81aea67f84745623ac6c72cda3967aab8b",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
+    "network": 1,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt ETHx",
+    "symbol": "variableDebtEthETHx",
+    "primaryColor": "#C8856C",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xa35b1b31ce002fbf2058d22f30f95d405200a15b&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#717171",
+      "dark": "#A9A9A9"
+    }
+  },
+  {
+    "iid": "eth:0xeffde9bfa8ec77c14c364055a200746d6e12bed6",
+    "address": "0xeffde9bfa8ec77c14c364055a200746d6e12bed6",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+    "network": 1,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt sUSDe",
+    "symbol": "variableDebtEthsUSDe",
+    "primaryColor": "#9F6350",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9d39a5de30e57443bff2a8307a4256c8797a3497&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#7f7f7f",
+      "dark": "#7f7f7f"
+    }
+  },
+  {
+    "iid": "eth:0xac50890a80a2731eb1ea2e9b4f29569ceb06d960",
+    "address": "0xac50890a80a2731eb1ea2e9b4f29569ceb06d960",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x18084fba666a33d37592fa2633fd49a74dd93a88",
+    "network": 1,
+    "reserve_factor": 0.5,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt tBTC",
+    "symbol": "variableDebtEthtBTC",
+    "primaryColor": "#CE822D",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x18084fba666a33d37592fa2633fd49a74dd93a88&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#000000",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "iid": "eth:0xeb284a70557efe3591b9e6d9d720040e02c54a4d",
+    "address": "0xeb284a70557efe3591b9e6d9d720040e02c54a4d",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "network": 1,
+    "reserve_factor": 0.5,
+    "decimals": 8,
+    "name": "Aave Ethereum Variable Debt cbBTC",
+    "symbol": "variableDebtEthcbBTC",
+    "primaryColor": "#6BAB87",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#0C59FC",
+      "dark": "#3F7BFC"
+    }
+  },
+  {
+    "iid": "eth:0x490e0e6255bf65b43e2e02f7acb783c5e04572ff",
+    "address": "0x490e0e6255bf65b43e2e02f7acb783c5e04572ff",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+    "network": 1,
+    "reserve_factor": 0.1,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt USDS",
+    "symbol": "variableDebtEthUSDS",
+    "primaryColor": "#A21C7A",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xdc035d45d973e3ec169d2276ddab16f1e407384f&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#B05E03",
+      "dark": "#34D5F9"
+    }
+  },
+  {
+    "iid": "eth:0x6de3e52a1b7294a34e271a508082b1ff4a37e30e",
+    "address": "0x6de3e52a1b7294a34e271a508082b1ff4a37e30e",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+    "network": 1,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Ethereum Variable Debt rsETH",
+    "symbol": "variableDebtEthrsETH",
+    "primaryColor": "#6BC42C",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xa1290d69c65a6fe4df752f95823fae25cb99e5a7&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#116C6D",
+      "dark": "#116C6D"
+    }
+  },
+  {
+    "iid": "eth:0x68aeb290c7727d899b47c56d1c96aeac475cd0dd",
+    "address": "0x68aeb290c7727d899b47c56d1c96aeac475cd0dd",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x8236a87084f8b84306f72007f36f2618a5634494",
+    "network": 1,
+    "reserve_factor": 0.5,
+    "decimals": 8,
+    "name": "Aave Ethereum Variable Debt LBTC",
+    "symbol": "variableDebtEthLBTC",
+    "primaryColor": "#E4B630",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x8236a87084f8b84306f72007f36f2618a5634494&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#4fafaf",
+      "dark": "#4fafaf"
+    }
+  },
+  {
+    "iid": "eth:0x47ed0509e64615c0d5c6d39af1b38d02bc9fe58f",
+    "address": "0x47ed0509e64615c0d5c6d39af1b38d02bc9fe58f",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "eth:0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+    "network": 1,
+    "reserve_factor": 0.5,
+    "decimals": 8,
+    "name": "Aave Ethereum Variable Debt eBTC",
+    "symbol": "variableDebtEtheBTC",
+    "primaryColor": "#B6CDCC",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x657e8c867d8b37dcc18fa4caead9c45eb088c642&marketName=proto_mainnet_v3",
+    "colors": {
+      "light": "#3f9bf0",
+      "dark": "#3f9bf0"
+    }
+  },
+  {
+    "iid": "poly:0x92b42c66840c7ad907b4bf74879ff3ef7c529473",
+    "address": "0x92b42c66840c7ad907b4bf74879ff3ef7c529473",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+    "network": 137,
+    "reserve_factor": 0.5,
+    "decimals": 8,
+    "name": "Aave Polygon Variable Debt WBTC",
+    "symbol": "variableDebtPolWBTC",
+    "primaryColor": "#5b071b",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#7E6C69",
+      "dark": "#F09242"
+    }
+  },
+  {
+    "iid": "poly:0x0c84331e39d6658cd6e6b9ba04736cc4c4734351",
+    "address": "0x0c84331e39d6658cd6e6b9ba04736cc4c4734351",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "network": 137,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Polygon Variable Debt WETH",
+    "symbol": "variableDebtPolWETH",
+    "primaryColor": "#d8ba4b",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x7ceb23fd6bc0add59e62ac25578270cff1b9f619&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#CF3779",
+      "dark": "#DA3A7A"
+    }
+  },
+  {
+    "iid": "poly:0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+    "address": "0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "network": 137,
+    "reserve_factor": 0.25,
+    "decimals": 6,
+    "name": "Aave Polygon Variable Debt USDT",
+    "symbol": "variableDebtPolUSDT",
+    "primaryColor": "#c01d22",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xc2132d05d31c914a87c6611c10748aeb04b58e8f&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#058080",
+      "dark": "#009393"
+    }
+  },
+  {
+    "iid": "poly:0xe701126012ec0290822eea17b794454d1af8b030",
+    "address": "0xe701126012ec0290822eea17b794454d1af8b030",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+    "network": 137,
+    "reserve_factor": 0.2,
+    "decimals": 6,
+    "name": "Aave Polygon Variable Debt USDCn",
+    "symbol": "variableDebtPolUSDCn",
+    "primaryColor": "#e6a19",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x3c499c542cef5e3811e1192ce70d8cc03d5c3359&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "poly:0x77fa66882a8854d883101fb8501bd3cad347fc32",
+    "address": "0x77fa66882a8854d883101fb8501bd3cad347fc32",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
+    "network": 137,
+    "reserve_factor": 0.05,
+    "decimals": 18,
+    "name": "Aave Polygon Variable Debt wstETH",
+    "symbol": "variableDebtPolwstETH",
+    "primaryColor": "#11d966",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#0075B5",
+      "dark": "#00A3FF"
+    }
+  },
+  {
+    "iid": "poly:0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8",
+    "address": "0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "network": 137,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Polygon Variable Debt WMATIC",
+    "symbol": "variableDebtPolWMATIC",
+    "primaryColor": "#8a4fc8",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#A726C1",
+      "dark": "#A726C1"
+    }
+  },
+  {
+    "iid": "poly:0x953a573793604af8d41f306feb8274190db4ae0e",
+    "address": "0x953a573793604af8d41f306feb8274190db4ae0e",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+    "network": 137,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Polygon Variable Debt LINK",
+    "symbol": "variableDebtPolLINK",
+    "primaryColor": "#8d5e90",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#375BD2",
+      "dark": "#375BD2"
+    }
+  },
+  {
+    "iid": "poly:0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+    "address": "0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "network": 137,
+    "reserve_factor": 0.25,
+    "decimals": 18,
+    "name": "Aave Polygon Variable Debt DAI",
+    "symbol": "variableDebtPolDAI",
+    "primaryColor": "#b4669f",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x8f3cf7ad23cd3cadbd9735aff958023239c6a063&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#986503",
+      "dark": "#F5AC37"
+    }
+  },
+  {
+    "iid": "poly:0xfccf3cabbe80101232d343252614b6a3ee81c989",
+    "address": "0xfccf3cabbe80101232d343252614b6a3ee81c989",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "poly:0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "network": 137,
+    "reserve_factor": 0.6,
+    "decimals": 6,
+    "name": "Aave Polygon Variable Debt USDC",
+    "symbol": "variableDebtPolUSDC",
+    "primaryColor": "#a0e6cc",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2791bca1f2de4661ed88a30c99a7a9449aa84174&marketName=proto_polygon_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "opt:0x34e2ed44ef7466d5f9e0b782b5c08b57475e7907",
+    "address": "0x34e2ed44ef7466d5f9e0b782b5c08b57475e7907",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+    "network": 10,
+    "reserve_factor": 0.05,
+    "decimals": 18,
+    "name": "Aave Optimism Variable Debt wstETH",
+    "symbol": "variableDebtOptwstETH",
+    "primaryColor": "#2338ee",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x1f32b1c2345538c0c6f582fcb022739c4a194ebb&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#8b6858",
+      "dark": "#ffdbc5"
+    }
+  },
+  {
+    "iid": "opt:0x0c84331e39d6658cd6e6b9ba04736cc4c4734351",
+    "address": "0x0c84331e39d6658cd6e6b9ba04736cc4c4734351",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0x4200000000000000000000000000000000000006",
+    "network": 10,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Optimism Variable Debt WETH",
+    "symbol": "variableDebtOptWETH",
+    "primaryColor": "#6adb28",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x4200000000000000000000000000000000000006&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#CF3779",
+      "dark": "#DA3A7A"
+    }
+  },
+  {
+    "iid": "opt:0x92b42c66840c7ad907b4bf74879ff3ef7c529473",
+    "address": "0x92b42c66840c7ad907b4bf74879ff3ef7c529473",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0x68f180fcce6836688e9084f035309e29bf0a2095",
+    "network": 10,
+    "reserve_factor": 0.5,
+    "decimals": 8,
+    "name": "Aave Optimism Variable Debt WBTC",
+    "symbol": "variableDebtOptWBTC",
+    "primaryColor": "#773037",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x68f180fcce6836688e9084f035309e29bf0a2095&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#7E6C69",
+      "dark": "#F09242"
+    }
+  },
+  {
+    "iid": "opt:0x5d557b07776d12967914379c71a1310e917c7555",
+    "address": "0x5d557b07776d12967914379c71a1310e917c7555",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "network": 10,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Optimism Variable Debt USDCn",
+    "symbol": "variableDebtOptUSDCn",
+    "primaryColor": "#ca994a",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x0b2c639c533813f4aa9d7837caf62653d097ff85&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "opt:0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+    "address": "0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "network": 10,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Optimism Variable Debt USDT",
+    "symbol": "variableDebtOptUSDT",
+    "primaryColor": "#e216b0",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x94b008aa00579c1307b0ef2c499ad98a8ce58e58&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#058080",
+      "dark": "#009393"
+    }
+  },
+  {
+    "iid": "opt:0x77ca01483f379e58174739308945f044e1a764dc",
+    "address": "0x77ca01483f379e58174739308945f044e1a764dc",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0x4200000000000000000000000000000000000042",
+    "network": 10,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Optimism Variable Debt OP",
+    "symbol": "variableDebtOptOP",
+    "primaryColor": "#2ddf41",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x4200000000000000000000000000000000000042&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#E6001F",
+      "dark": "#FF0420"
+    }
+  },
+  {
+    "iid": "opt:0xfccf3cabbe80101232d343252614b6a3ee81c989",
+    "address": "0xfccf3cabbe80101232d343252614b6a3ee81c989",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "network": 10,
+    "reserve_factor": 0.5,
+    "decimals": 6,
+    "name": "Aave Optimism Variable Debt USDC",
+    "symbol": "variableDebtOptUSDC",
+    "primaryColor": "#dc01d3",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x7f5c764cbc14f9669b88837ca1490cca17c31607&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "opt:0x953a573793604af8d41f306feb8274190db4ae0e",
+    "address": "0x953a573793604af8d41f306feb8274190db4ae0e",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+    "network": 10,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Optimism Variable Debt LINK",
+    "symbol": "variableDebtOptLINK",
+    "primaryColor": "#cf6b95",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#2c5cdc",
+      "dark": "#2c5cdc"
+    }
+  },
+  {
+    "iid": "opt:0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+    "address": "0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "opt:0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "network": 10,
+    "reserve_factor": 0.25,
+    "decimals": 18,
+    "name": "Aave Optimism Variable Debt DAI",
+    "symbol": "variableDebtOptDAI",
+    "primaryColor": "#e48f7f",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xda10009cbd5d07dd0cecc66161fc93d7c9000da1&marketName=proto_optimism_v3",
+    "colors": {
+      "light": "#986503",
+      "dark": "#F5AC37"
+    }
+  },
+  {
+    "iid": "avax:0xa8669021776bc142dfca87c21b4a52595bcbb40a",
+    "address": "0xa8669021776bc142dfca87c21b4a52595bcbb40a",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+    "network": 43114,
+    "reserve_factor": 0.5,
+    "decimals": 8,
+    "name": "Aave Avalanche Variable Debt BTC.b",
+    "symbol": "variableDebtAvaBTC.b",
+    "primaryColor": "#20b938",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x152b9d0fdc40c096757f570a51e494bd4b943e50&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#f4941c",
+      "dark": "#f4941c"
+    }
+  },
+  {
+    "iid": "avax:0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8",
+    "address": "0x4a1c3ad6ed28a636ee1751c69071f6be75deb8b8",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+    "network": 43114,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Avalanche Variable Debt WAVAX",
+    "symbol": "variableDebtAvaWAVAX",
+    "primaryColor": "#3f4c0a",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#ec4444",
+      "dark": "#ec4444"
+    }
+  },
+  {
+    "iid": "avax:0x77ca01483f379e58174739308945f044e1a764dc",
+    "address": "0x77ca01483f379e58174739308945f044e1a764dc",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
+    "network": 43114,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Aave Avalanche Variable Debt SAVAX",
+    "symbol": "variableDebtAvaSAVAX",
+    "primaryColor": "#2d3e2c",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#04b4ec",
+      "dark": "#04b4ec"
+    }
+  },
+  {
+    "iid": "avax:0xfccf3cabbe80101232d343252614b6a3ee81c989",
+    "address": "0xfccf3cabbe80101232d343252614b6a3ee81c989",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+    "network": 43114,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Avalanche Variable Debt USDC",
+    "symbol": "variableDebtAvaUSDC",
+    "primaryColor": "#2b71f3",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#2474cc",
+      "dark": "#2474cc"
+    }
+  },
+  {
+    "iid": "avax:0x0c84331e39d6658cd6e6b9ba04736cc4c4734351",
+    "address": "0x0c84331e39d6658cd6e6b9ba04736cc4c4734351",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+    "network": 43114,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Avalanche Variable Debt WETH",
+    "symbol": "variableDebtAvaWETH",
+    "primaryColor": "#79d486",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#4c572e",
+      "dark": "#b5c48d"
+    }
+  },
+  {
+    "iid": "avax:0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+    "address": "0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+    "network": 43114,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Avalanche Variable Debt USDT",
+    "symbol": "variableDebtAvaUSDT",
+    "primaryColor": "#48e96d",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#0c9c9c",
+      "dark": "#0c9c9c"
+    }
+  },
+  {
+    "iid": "avax:0xdc1fad70953bb3918592b6fcc374fe05f5811b6a",
+    "address": "0xdc1fad70953bb3918592b6fcc374fe05f5811b6a",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "network": 43114,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Avalanche Variable Debt AUSD",
+    "symbol": "variableDebtAvaAUSD",
+    "primaryColor": "#171645",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x00000000efe302beaa2b3e6e1b18d08d69a9012a&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#b5b549",
+      "dark": "#b5b549"
+    }
+  },
+  {
+    "iid": "avax:0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+    "address": "0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+    "network": 43114,
+    "reserve_factor": 0.25,
+    "decimals": 18,
+    "name": "Aave Avalanche Variable Debt DAI",
+    "symbol": "variableDebtAvaDAI",
+    "primaryColor": "#3a5f13",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xd586e7f844cea2f87f50152665bcbc2c279d8d70&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#624515",
+      "dark": "#f4ac34"
+    }
+  },
+  {
+    "iid": "avax:0x953a573793604af8d41f306feb8274190db4ae0e",
+    "address": "0x953a573793604af8d41f306feb8274190db4ae0e",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0x5947bb275c521040051d82396192181b413227a3",
+    "network": 43114,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Avalanche Variable Debt LINK",
+    "symbol": "variableDebtAvaLINK",
+    "primaryColor": "#d4b9b3",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x5947bb275c521040051d82396192181b413227a3&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#2c5cdc",
+      "dark": "#2c5cdc"
+    }
+  },
+  {
+    "iid": "avax:0xe80761ea617f66f96274ea5e8c37f03960ecc679",
+    "address": "0xe80761ea617f66f96274ea5e8c37f03960ecc679",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "avax:0x63a72806098bd3d9520cc43356dd78afe5d386d9",
+    "network": 43114,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Aave Avalanche Variable Debt AAVE",
+    "symbol": "variableDebtAvaAAVE",
+    "primaryColor": "#220103",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x63a72806098bd3d9520cc43356dd78afe5d386d9&marketName=proto_avalanche_v3",
+    "colors": {
+      "light": "#1717e7",
+      "dark": "#2929ff"
+    }
+  },
+  {
+    "iid": "gnosis:0x9d881f67f20b49243c98f53d2b9e91e39d02ae09",
+    "address": "0x9d881f67f20b49243c98f53d2b9e91e39d02ae09",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "gnosis:0x6c76971f98945ae98dd7d4dfca8711ebea946ea6",
+    "network": 100,
+    "reserve_factor": 0.5,
+    "decimals": 18,
+    "name": "Aave Gnosis Variable Debt wstETH",
+    "symbol": "variableDebtGnowstETH",
+    "primaryColor": "#4a2a13",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x6c76971f98945ae98dd7d4dfca8711ebea946ea6&marketName=proto_gnosis_v3",
+    "colors": {
+      "light": "#225b65",
+      "dark": "#54e3fc"
+    }
+  },
+  {
+    "iid": "gnosis:0x8fe06e1d8aff42bf6812cacf7854a2249a00bed7",
+    "address": "0x8fe06e1d8aff42bf6812cacf7854a2249a00bed7",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "gnosis:0xaf204776c7245bf4147c2612bf6e5972ee483701",
+    "network": 100,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Aave Gnosis Variable Debt sDAI",
+    "symbol": "variableDebtGnosDAI",
+    "primaryColor": "#b5a5de",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xaf204776c7245bf4147c2612bf6e5972ee483701&marketName=proto_gnosis_v3",
+    "colors": {
+      "light": "#654b15",
+      "dark": "#fcbc34"
+    }
+  },
+  {
+    "iid": "gnosis:0xbc59e99198dba71985a66e1713cc89ffec53f7fc",
+    "address": "0xbc59e99198dba71985a66e1713cc89ffec53f7fc",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "gnosis:0x9c58bacc331c9aa871afd802db6379a98e80cedb",
+    "network": 100,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Aave Gnosis Variable Debt GNO",
+    "symbol": "variableDebtGnoGNO",
+    "primaryColor": "#63eed2",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x9c58bacc331c9aa871afd802db6379a98e80cedb&marketName=proto_gnosis_v3",
+    "colors": {
+      "light": "#156ae9",
+      "dark": "#156ae9"
+    }
+  },
+  {
+    "iid": "gnosis:0x0c0fce05f2314540ecb095bf4d069e5e0ed90ff8",
+    "address": "0x0c0fce05f2314540ecb095bf4d069e5e0ed90ff8",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "gnosis:0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
+    "network": 100,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Gnosis Variable Debt WETH",
+    "symbol": "variableDebtGnoWETH",
+    "primaryColor": "#cbec3a",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1&marketName=proto_gnosis_v3",
+    "colors": {
+      "light": "#f42084",
+      "dark": "#f42084"
+    }
+  },
+  {
+    "iid": "gnosis:0x37b9ad6b5dc8ad977ad716e92f49e9d200e58431",
+    "address": "0x37b9ad6b5dc8ad977ad716e92f49e9d200e58431",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "gnosis:0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
+    "network": 100,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Gnosis Variable Debt USDCe",
+    "symbol": "variableDebtGnoUSDCe",
+    "primaryColor": "#8090d5",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x2a22f9c3b484c3629090feed35f17ff8f88f76f0&marketName=proto_gnosis_v3",
+    "colors": {
+      "light": "#514112",
+      "dark": "#bca768"
+    }
+  },
+  {
+    "iid": "gnosis:0x281963d7471ecdc3a2bd4503e24e89691cfe420d",
+    "address": "0x281963d7471ecdc3a2bd4503e24e89691cfe420d",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "gnosis:0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "network": 100,
+    "reserve_factor": 0.25,
+    "decimals": 18,
+    "name": "Aave Gnosis Variable Debt WXDAI",
+    "symbol": "variableDebtGnoWXDAI",
+    "primaryColor": "#f64053",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xe91d153e0b41518a2ce8dd3d7944fa863463a97d&marketName=proto_gnosis_v3",
+    "colors": {
+      "light": "#0ce43c",
+      "dark": "#0ce43c"
+    }
+  },
+  {
+    "iid": "gnosis:0x5f6f7b0a87ca3cf3d0b431ae03ef3305180bff4d",
+    "address": "0x5f6f7b0a87ca3cf3d0b431ae03ef3305180bff4d",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "gnosis:0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
+    "network": 100,
+    "reserve_factor": 0.4,
+    "decimals": 6,
+    "name": "Aave Gnosis Variable Debt USDC",
+    "symbol": "variableDebtGnoUSDC",
+    "primaryColor": "#c0b291",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xddafbb505ad214d7b80b1f830fccc89b60fb7a83&marketName=proto_gnosis_v3",
+    "colors": {
+      "light": "#2474cc",
+      "dark": "#2474cc"
+    }
+  },
+  {
+    "iid": "scroll:0x009d88c6a6b4caa240b71c98ba93732e26f2a55a",
+    "address": "0x009d88c6a6b4caa240b71c98ba93732e26f2a55a",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "scroll:0x01f0a31698c4d065659b9bdc21b3610292a1c506",
+    "network": 534352,
+    "reserve_factor": 0.45,
+    "decimals": 18,
+    "name": "Aave Scroll Variable Debt weETH",
+    "symbol": "variableDebtScrweETH",
+    "primaryColor": "#d25d22",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x01f0a31698c4d065659b9bdc21b3610292a1c506&marketName=proto_scroll_v3",
+    "colors": {
+      "light": "#1F1E4C",
+      "dark": "#33B6FB"
+    }
+  },
+  {
+    "iid": "scroll:0xfd7344ceb1df9cf238ecd667f4a6f99c6ef44a56",
+    "address": "0xfd7344ceb1df9cf238ecd667f4a6f99c6ef44a56",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "scroll:0x5300000000000000000000000000000000000004",
+    "network": 534352,
+    "reserve_factor": 0.15,
+    "decimals": 18,
+    "name": "Aave Scroll Variable Debt WETH",
+    "symbol": "variableDebtScrWETH",
+    "primaryColor": "#864156",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x5300000000000000000000000000000000000004&marketName=proto_scroll_v3",
+    "colors": {
+      "light": "#CF3779",
+      "dark": "#DA3A7A"
+    }
+  },
+  {
+    "iid": "scroll:0x8a035644322129800c3f747f54db0f4d3c0a2877",
+    "address": "0x8a035644322129800c3f747f54db0f4d3c0a2877",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "scroll:0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+    "network": 534352,
+    "reserve_factor": 0.05,
+    "decimals": 18,
+    "name": "Aave Scroll Variable Debt wstETH",
+    "symbol": "variableDebtScrwstETH",
+    "primaryColor": "#f01232",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32&marketName=proto_scroll_v3",
+    "colors": {
+      "light": "#0075B5",
+      "dark": "#00A3FF"
+    }
+  },
+  {
+    "iid": "scroll:0x3d2e209af5bfa79297c88d6b57f89d792f6e28ee",
+    "address": "0x3d2e209af5bfa79297c88d6b57f89d792f6e28ee",
+    "protocol": "AAVE_V3",
+    "underlying_iid": "scroll:0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "network": 534352,
+    "reserve_factor": 0.1,
+    "decimals": 6,
+    "name": "Aave Scroll Variable Debt USDC",
+    "symbol": "variableDebtScrUSDC",
+    "primaryColor": "#eb61e4",
+    "tokenCategory": "varDebt",
+    "url": "https://app.aave.com/reserve-overview/?underlyingAsset=0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4&marketName=proto_scroll_v3",
+    "colors": {
+      "light": "#2972C3",
+      "dark": "#2775CA"
+    }
+  },
+  {
+    "iid": "hype:0x37e44f3070b5455f1f5d7aaad9fc8590229cc5cb",
+    "address": "0x37e44f3070b5455f1f5d7aaad9fc8590229cc5cb",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0x5555555555555555555555555555555555555555",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "WHYPE Variable Debt Hypurr",
+    "symbol": "variableDebtWHYPE",
+    "primaryColor": "#fa1132",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#127D61",
+      "dark": "#DBFBF3"
+    }
+  },
+  {
+    "iid": "hype:0x699898383dfad4d134e3789f0ed3090bd1833df9",
+    "address": "0x699898383dfad4d134e3789f0ed3090bd1833df9",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "wstHYPE Variable Debt Hypurr",
+    "symbol": "variableDebtwstHYPE",
+    "primaryColor": "#486bb0",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#77c6a8",
+      "dark": "#77c6a8"
+    }
+  },
+  {
+    "iid": "hype:0xa0399ff8f46ce6c2cfee05c5f67307c7f390a439",
+    "address": "0xa0399ff8f46ce6c2cfee05c5f67307c7f390a439",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "USDXL Variable Debt Hypurr",
+    "symbol": "variableDebtUSDXL",
+    "primaryColor": "#9e6f03",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#737373",
+      "dark": "#CCCCCC"
+    }
+  },
+  {
+    "iid": "hype:0x109d266513d01ca87e50e4da18739d936046fbc3",
+    "address": "0x109d266513d01ca87e50e4da18739d936046fbc3",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 8,
+    "name": "UBTC Variable Debt Hypurr",
+    "symbol": "variableDebtUBTC",
+    "primaryColor": "#21b367",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#A85E01",
+      "dark": "#F39416"
+    }
+  },
+  {
+    "iid": "hype:0x670f4adc643bd6f6dac15bb59163380bda0a8112",
+    "address": "0x670f4adc643bd6f6dac15bb59163380bda0a8112",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "UETH Variable Debt Hypurr",
+    "symbol": "variableDebtUETH",
+    "primaryColor": "#718508",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#737373",
+      "dark": "#D2D2D2"
+    }
+  },
+  {
+    "iid": "hype:0x0ab2d0574ae072a635cb58c36650175f76579e9c",
+    "address": "0x0ab2d0574ae072a635cb58c36650175f76579e9c",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "USDe Variable Debt Hypurr",
+    "symbol": "variableDebtUSDe",
+    "primaryColor": "#dbabd0",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#000000",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "iid": "hype:0xf59ea0912321a3059e51504fcacc2a6b22735996",
+    "address": "0xf59ea0912321a3059e51504fcacc2a6b22735996",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "feUSD Variable Debt Hypurr",
+    "symbol": "variableDebtfeUSD",
+    "primaryColor": "#6fd35e",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#767542",
+      "dark": "#E8E7D5"
+    }
+  },
+  {
+    "iid": "hype:0x31f3fbad8b3d2136546e2032bec791f6d167d277",
+    "address": "0x31f3fbad8b3d2136546e2032bec791f6d167d277",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 6,
+    "name": "USD₮0 Variable Debt Hypurr",
+    "symbol": "variableDebtUSD₮0",
+    "primaryColor": "#d3e34a",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#008260",
+      "dark": "#06B98A"
+    }
+  },
+  {
+    "iid": "hype:0x54b94844d8db335686a87667d0468272a936d21f",
+    "address": "0x54b94844d8db335686a87667d0468272a936d21f",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 6,
+    "name": "USDHL Variable Debt Hypurr",
+    "symbol": "variableDebtUSDHL",
+    "primaryColor": "#ab6c3",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#3e6e7f",
+      "dark": "#a3e3f9"
+    }
+  },
+  {
+    "iid": "hype:0xf1c499bb1a93958d764c674ceafff8f950b3bd9d",
+    "address": "0xf1c499bb1a93958d764c674ceafff8f950b3bd9d",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0x068f321fa8fb9f0d135f290ef6a3e2813e1c8a29",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 9,
+    "name": "USOL Variable Debt Hypurr",
+    "symbol": "variableDebtUSOL",
+    "primaryColor": "#3da83c",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#0cd494",
+      "dark": "#0cd494"
+    }
+  },
+  {
+    "iid": "hype:0x429ab5569ee85b2750683f675278713c6a3e0292",
+    "address": "0x429ab5569ee85b2750683f675278713c6a3e0292",
+    "protocol": "HYPURRFI",
+    "underlying_iid": "hype:0xfd739d4e423301ce9385c1fb8850539d657c296d",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "kHYPE Variable Debt Hypurr",
+    "symbol": "variableDebtkHYPE",
+    "primaryColor": "#3c9bbf",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#56a0c4",
+      "dark": "#56a0c4"
+    }
+  },
+  {
+    "iid": "hype:0x747d0d4ba0a2083651513cd008deb95075683e82",
+    "address": "0x747d0d4ba0a2083651513cd008deb95075683e82",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0x5555555555555555555555555555555555555555",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "HyperLend HyperEVM Variable Debt WHYPE",
+    "symbol": "variableDebtHyperEvmWHYPE",
+    "primaryColor": "#fa1132",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#127D61",
+      "dark": "#DBFBF3"
+    }
+  },
+  {
+    "iid": "hype:0x45686a849e77ccb909f5d575f51c372bf26103d6",
+    "address": "0x45686a849e77ccb909f5d575f51c372bf26103d6",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "HyperLend HyperEVM Variable Debt wstHYPE",
+    "symbol": "variableDebtHyperEvmwstHYPE",
+    "primaryColor": "#486bb0",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#77c6a8",
+      "dark": "#77c6a8"
+    }
+  },
+  {
+    "iid": "hype:0xe16a14972bcde3f9bd637502c86384533f27da07",
+    "address": "0xe16a14972bcde3f9bd637502c86384533f27da07",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 8,
+    "name": "HyperLend HyperEVM Variable Debt UBTC",
+    "symbol": "variableDebtHyperEvmUBTC",
+    "primaryColor": "#21b367",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#A85E01",
+      "dark": "#F39416"
+    }
+  },
+  {
+    "iid": "hype:0x14e10fa4e016183a024c74acf539bb875c54e70c",
+    "address": "0x14e10fa4e016183a024c74acf539bb875c54e70c",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "HyperLend HyperEVM Variable Debt UETH",
+    "symbol": "variableDebtHyperEvmUETH",
+    "primaryColor": "#718508",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#737373",
+      "dark": "#D2D2D2"
+    }
+  },
+  {
+    "iid": "hype:0x1efa0f7a12cef73e23de30b7013a252231ea50f9",
+    "address": "0x1efa0f7a12cef73e23de30b7013a252231ea50f9",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "HyperLend HyperEVM Variable Debt USDe",
+    "symbol": "variableDebtHyperEvmUSDe",
+    "primaryColor": "#dbabd0",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#000000",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "iid": "hype:0x1ef897622d62335e7fc88fb0605fbba28ec0b01d",
+    "address": "0x1ef897622d62335e7fc88fb0605fbba28ec0b01d",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 6,
+    "name": "HyperLend HyperEVM Variable Debt USDT0",
+    "symbol": "variableDebtHyperEvmUSDT0",
+    "primaryColor": "#d3e34a",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#008260",
+      "dark": "#06B98A"
+    }
+  },
+  {
+    "iid": "hype:0x044388eed86ef67c126db5a66428f30797b0abf5",
+    "address": "0x044388eed86ef67c126db5a66428f30797b0abf5",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "HyperLend HyperEVM Variable Debt sUSDe",
+    "symbol": "variableDebtHyperEvmsUSDe",
+    "primaryColor": "#780c1d",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#7f7f7f",
+      "dark": "#7f7f7f"
+    }
+  },
+  {
+    "iid": "hype:0x94c03ed369b706ad6957cf42afb0b5b02f924099",
+    "address": "0x94c03ed369b706ad6957cf42afb0b5b02f924099",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 6,
+    "name": "HyperLend HyperEVM Variable Debt USDHL",
+    "symbol": "variableDebtHyperEvmUSDHL",
+    "primaryColor": "#ab6c3",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#3e6e7f",
+      "dark": "#a3e3f9"
+    }
+  },
+  {
+    "iid": "hype:0x185697d814330430b8d4b3121fab9c811b59798d",
+    "address": "0x185697d814330430b8d4b3121fab9c811b59798d",
+    "protocol": "HYPERLEND",
+    "underlying_iid": "hype:0xfd739d4e423301ce9385c1fb8850539d657c296d",
+    "network": 999,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "HyperLend HyperEVM Variable Debt kHYPE",
+    "symbol": "variableDebtHyperEvmkHYPE",
+    "primaryColor": "#3c9bbf",
+    "tokenCategory": "varDebt",
+    "colors": {
+      "light": "#56a0c4",
+      "dark": "#56a0c4"
+    }
+  },
+  {
+    "iid": "sei:0x5bfc2d187e8c7f51be6d547b43a1b3160d72a142",
+    "address": "0x5bfc2d187e8c7f51be6d547b43a1b3160d72a142",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+    "network": 1329,
+    "reserve_factor": 0.35,
+    "decimals": 6,
+    "name": "Yei Variable Debt USDC",
+    "symbol": "variableDebtYeiUSDC",
+    "primaryColor": "#912529",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
+    "colors": {
+      "light": "#2474cc",
+      "dark": "#2474cc"
+    }
+  },
+  {
+    "iid": "sei:0x25ea70dc3332b9960e1284d57ed2f6a90d4a8373",
+    "address": "0x25ea70dc3332b9960e1284d57ed2f6a90d4a8373",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+    "network": 1329,
+    "reserve_factor": 1,
+    "decimals": 6,
+    "name": "Yei Variable Debt USDT",
+    "symbol": "variableDebtYeiUSDT",
+    "primaryColor": "#d664f1",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+    "colors": {
+      "light": "#04ac84",
+      "dark": "#04ac84"
+    }
+  },
+  {
+    "iid": "sei:0x648e683aae7c18132564f8b48c625ae5038a9607",
+    "address": "0x648e683aae7c18132564f8b48c625ae5038a9607",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+    "network": 1329,
+    "reserve_factor": 0.3,
+    "decimals": 18,
+    "name": "Yei Variable Debt WSEI",
+    "symbol": "variableDebtYeiWSEI",
+    "primaryColor": "#93bb2d",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7",
+    "colors": {
+      "light": "#ad2424",
+      "dark": "#ad2424"
+    }
+  },
+  {
+    "iid": "sei:0xcbad33e1233fc415be5d98e3cfb6af1f074e67ad",
+    "address": "0xcbad33e1233fc415be5d98e3cfb6af1f074e67ad",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+    "network": 1329,
+    "reserve_factor": 0.5,
+    "decimals": 18,
+    "name": "Yei Variable Debt WETH",
+    "symbol": "varialbeDebtYeiWETH",
+    "primaryColor": "#5043f8",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
+    "colors": {
+      "light": "#fb047c",
+      "dark": "#fb047c"
+    }
+  },
+  {
+    "iid": "sei:0x13cfe1e14379f67f2188120decb6a15da1f3e861",
+    "address": "0x13cfe1e14379f67f2188120decb6a15da1f3e861",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
+    "network": 1329,
+    "reserve_factor": 0.15,
+    "decimals": 6,
+    "name": "Yei Variable Debt ISEI",
+    "symbol": "varialbeDebtYeiISEI",
+    "primaryColor": "#bf9ba8",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x5cf6826140c1c56ff49c808a1a75407cd1df9423",
+    "colors": {
+      "light": "#355835",
+      "dark": "#84dc84"
+    }
+  },
+  {
+    "iid": "sei:0x5bc80c7975221a1e81f4c2fa4c23f29fd067564a",
+    "address": "0x5bc80c7975221a1e81f4c2fa4c23f29fd067564a",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "network": 1329,
+    "reserve_factor": 0.3,
+    "decimals": 18,
+    "name": "Yei Variable Debt FRAX",
+    "symbol": "variableDebtYeiFRAX",
+    "primaryColor": "#9e27dd",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "colors": {
+      "light": "#7f7f7f",
+      "dark": "#7f7f7f"
+    }
+  },
+  {
+    "iid": "sei:0x43d095f50366acb0ca2feab68ebe2c90383cfa19",
+    "address": "0x43d095f50366acb0ca2feab68ebe2c90383cfa19",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+    "network": 1329,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Yei Variable Debt sFRAX",
+    "symbol": "variableDebtYeisFRAX",
+    "primaryColor": "#ed50c0",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+    "colors": {
+      "light": "#7f7f7f",
+      "dark": "#7f7f7f"
+    }
+  },
+  {
+    "iid": "sei:0x768a2f5e5397ff911bdbe488f59b24fe838f529b",
+    "address": "0x768a2f5e5397ff911bdbe488f59b24fe838f529b",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+    "network": 1329,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Yei Variable Debt frxETH",
+    "symbol": "variableDebtYeifrxETH",
+    "primaryColor": "#be3e69",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+    "colors": {
+      "light": "#5a6c57",
+      "dark": "#c8e0c4"
+    }
+  },
+  {
+    "iid": "sei:0xb2308ab4ce77a6c73991766cb76159614115a8e9",
+    "address": "0xb2308ab4ce77a6c73991766cb76159614115a8e9",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+    "network": 1329,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Yei Variable Debt sfrxETH",
+    "symbol": "variableDebtYeisfrxETH",
+    "primaryColor": "#421d2e",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+    "colors": {
+      "light": "#334e0c",
+      "dark": "#94b860"
+    }
+  },
+  {
+    "iid": "sei:0xf546e9a1e0f60ec8b89f50a23bbdd81b0d94fe3c",
+    "address": "0xf546e9a1e0f60ec8b89f50a23bbdd81b0d94fe3c",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+    "network": 1329,
+    "reserve_factor": 0.2,
+    "decimals": 18,
+    "name": "Yei Variable Debt fastUSD",
+    "symbol": "variableDebtYeifastUSD",
+    "primaryColor": "#e88065",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+    "colors": {
+      "light": "#9c1c1c",
+      "dark": "#ff3232"
+    }
+  },
+  {
+    "iid": "sei:0xc7054bc3a42d51c06ff26e0c455a5799183c6a28",
+    "address": "0xc7054bc3a42d51c06ff26e0c455a5799183c6a28",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "network": 1329,
+    "reserve_factor": 0.3,
+    "decimals": 8,
+    "name": "Yei Variable Debt WBTC V2",
+    "symbol": "variableDebtYeiWBTCV2",
+    "primaryColor": "#3c710a",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "colors": {
+      "light": "#f49444",
+      "dark": "#f49444"
+    }
+  },
+  {
+    "iid": "sei:0x42bccb9f752f89b27791d43aa7314e52a3cf401a",
+    "address": "0x42bccb9f752f89b27791d43aa7314e52a3cf401a",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0xdf77686d99667ae56bc18f539b777dbc2bbe3e9f",
+    "network": 1329,
+    "reserve_factor": 0.3,
+    "decimals": 18,
+    "name": "Yei Variable Debt sfastUSD",
+    "symbol": "variableDebtYeisfastUSD",
+    "primaryColor": "#d45ed6",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0xdf77686d99667ae56bc18f539b777dbc2bbe3e9f",
+    "colors": {
+      "light": "#57490a",
+      "dark": "#c4b15d"
+    }
+  },
+  {
+    "iid": "sei:0xbab321e4437e3c9d903e3253c81ddf3333c12927",
+    "address": "0xbab321e4437e3c9d903e3253c81ddf3333c12927",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "network": 1329,
+    "reserve_factor": 0.4,
+    "decimals": 18,
+    "name": "Yei Variable Debt SolvBTC",
+    "symbol": "variableDebtYeiSolvBTC",
+    "primaryColor": "#fcb031",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "colors": {
+      "light": "#db8a2b",
+      "dark": "#db8a2b"
+    }
+  },
+  {
+    "iid": "sei:0xc054a292bf6183b8dea3e059cbf61a6f9abf8e47",
+    "address": "0xc054a292bf6183b8dea3e059cbf61a6f9abf8e47",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0xbe574b6219c6d985d08712e90c21a88fd55f1ae8",
+    "network": 1329,
+    "reserve_factor": 0.3,
+    "decimals": 18,
+    "name": "Yei Variable Debt WSTETH",
+    "symbol": "variableDebtYeiWSTETH",
+    "primaryColor": "#4f2089",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0xbe574b6219c6d985d08712e90c21a88fd55f1ae8",
+    "colors": {
+      "light": "#974c14",
+      "dark": "#ffb66b"
+    }
+  },
+  {
+    "iid": "sei:0x6953c1564ff90ae639f571e774f2c300e49daafb",
+    "address": "0x6953c1564ff90ae639f571e774f2c300e49daafb",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0x9151434b16b9763660705744891fa906f660ecc5",
+    "network": 1329,
+    "reserve_factor": 0.2,
+    "decimals": 6,
+    "name": "Yei Variable Debt USDT0",
+    "symbol": "variableDebtYeiUSDT0",
+    "primaryColor": "#89aad8",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0x9151434b16b9763660705744891fa906f660ecc5",
+    "colors": {
+      "light": "#04bc8b",
+      "dark": "#04bc8b"
+    }
+  },
+  {
+    "iid": "sei:0x492205148fb5ba1507a62bc3b7c522f3b62250d5",
+    "address": "0x492205148fb5ba1507a62bc3b7c522f3b62250d5",
+    "protocol": "YEI",
+    "underlying_iid": "sei:0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+    "network": 1329,
+    "reserve_factor": 0.35,
+    "decimals": 6,
+    "name": "Yei Variable Debt NativeUSDC",
+    "symbol": "variableDebtYeiNativeUSDC",
+    "primaryColor": "#f52236",
+    "tokenCategory": "varDebt",
+    "url": "https://app.yei.finance/reserve-overview?underlyingAsset=0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+    "colors": {
+      "light": "#2474cc",
+      "dark": "#2474cc"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe61",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe61",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (WHYPE)",
+    "symbol": "varDebtUSH-WHYPE",
+    "primaryColor": "#d2e82b",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe60",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe60",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (UBTC)",
+    "symbol": "varDebtUSH-UBTC",
+    "primaryColor": "#8df0f8",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe63",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe63",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (UETH)",
+    "symbol": "varDebtUSH-UETH",
+    "primaryColor": "#52111b",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe62",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe62",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (wstHYPE)",
+    "symbol": "varDebtUSH-wstHYPE",
+    "primaryColor": "#e567a9",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe65",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe65",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (kHYPE)",
+    "symbol": "varDebtUSH-kHYPE",
+    "primaryColor": "#e667c8",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe64",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe64",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (USOL)",
+    "symbol": "varDebtUSH-USOL",
+    "primaryColor": "#468db6",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe67",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe67",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (LHYPE)",
+    "symbol": "varDebtUSH-LHYPE",
+    "primaryColor": "#d528b8",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe66",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe66",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (XAUt0)",
+    "symbol": "varDebtUSH-XAUt0",
+    "primaryColor": "#d01901",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  },
+  {
+    "iid": "hype:0x052ff8ad542a11f44c7cc911685c844bd32dbe69",
+    "address": "0x052ff8ad542a11f44c7cc911685c844bd32dbe69",
+    "protocol": "HYPERSTABLE",
+    "underlying_iid": "hype:0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "network": 999,
+    "reserve_factor": 0,
+    "decimals": 18,
+    "name": "Variable Debt USH (thBILL)",
+    "symbol": "varDebtUSH-thBILL",
+    "primaryColor": "#98ec54",
+    "tokenCategory": "varDebt",
+    "url": "",
+    "colors": {
+      "light": "#26b0f4",
+      "dark": "#26b0f4"
+    }
+  }
+]
